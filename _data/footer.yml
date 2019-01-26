@@ -3,8 +3,10 @@
       link: /about/
     - name: Contact
       link: /contact/
-    - name: Demologi Ltd.
+    - name: Demologi
       link: 'https://www.demologi.com/'
+    - name: The Daedalus Group
+      link: 'https://www.daedalusai.com/'
 - links:
     - name: Login
       link: /
