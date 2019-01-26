@@ -8,19 +8,6 @@
     - name: The Daedalus Group
       link: 'https://www.daedalusai.com/'
 - links:
-    - name: Login
-      link: /
-      new_window: true
-    - name: Sign Up
-      link: /
-      new_window: true
-    - name: Docs
-      link: /
-      new_window: true
-    - name: Status
-      link: /
-      new_window: true
-- links:
     - name: Facebook
       link: 'https://facebook.com'
       new_window: true
@@ -29,11 +16,11 @@
       link: 'https://twitter.com'
       social_icon: Twitter
       new_window: true
-    - name: YouTube
-      link: 'https://youtube.com'
-      social_icon: YouTube
+    - name: Instagram
+      link: 'https://instagram.com'
+      social_icon: Instagram
       new_window: true
-    - name: RSS
-      link: /feed.xml
-      social_icon: RSS
-      new_window: false
+    - name: LinkedIn
+      link: 'https://linkedin.com'
+      social_icon: LinkedIn
+      new_window: true
